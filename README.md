@@ -1,4 +1,6 @@
-# 构建Web应用程序-Erlang
+# 基于Erlang构建Web应用程序
+
+> 本书努力翻译中，请等待。如果想参与其中，请联系我。
 
 ## 英文原文
 [Building Web Applications with Erlang](https://www.safaribooksonline.com/library/view/building-web-applications/9781449320621/)
