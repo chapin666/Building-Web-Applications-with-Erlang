@@ -7,41 +7,41 @@
 
 ## 目录
 
-### [前言](./src/Preface.md)
+### [前言](./src/Preface.md#1)
 
-&emsp;[本书适用于谁]()
+&emsp;[本书适用于谁](./src/Preface.md#2)
 
-&emsp;[学习Erlang]()
+&emsp;[学习Erlang](./src/Preface.md#3)
 
-&emsp;[在你开始之前]()
+&emsp;[在你开始之前](./src/Preface.md#4)
 
-&emsp;[你会学到什么]()
+&emsp;[你会学到什么](./src/Preface.md#5)
 
-&emsp;[本书的局限]()
+&emsp;[本书的局限](./src/Preface.md#6)
 
-&emsp;[Help! 它不能编译或运行！]()
+&emsp;[Help! 它不能编译或运行！](./src/Preface.md#7)
 
-&emsp;&emsp;[诊断错误]()
+&emsp;&emsp;[诊断错误](./src/Preface.md#8)
 
-&emsp;&emsp;[你在运行什么版本的Erlang和Yaws？]()
+&emsp;&emsp;[你在运行什么版本的Erlang和Yaws？](./src/Preface.md#9)
 
-&emsp;&emsp;[一切都正确加载吗？]()
+&emsp;&emsp;[一切都正确加载吗？](./src/Preface.md#10)
 
-&emsp;&emsp;[你是否正确地调用一切？]()
+&emsp;&emsp;[你是否正确地调用一切？](./src/Preface.md#11)
 
-&emsp;&emsp;[Mnesia正在运行正确的表吗？]()
+&emsp;&emsp;[Mnesia正在运行正确的表吗？](./src/Preface.md#12)
 
-&emsp;&emsp;[示例是否简单错误？]()
+&emsp;&emsp;[示例是否简单错误？](./src/Preface.md#13)
 
-&emsp;[本书中使用的约定]()
+&emsp;[本书中使用的约定](./src/Preface.md#14)
 
-&emsp;[使用代码示例]()
+&emsp;[使用代码示例](./src/Preface.md#15)
 
-&emsp;[Safari®联机丛书]()
+&emsp;[Safari®联机丛书](./src/Preface.md#16)
 
-&emsp;[如何联系我们]()
+&emsp;[如何联系我们](./src/Preface.md#17)
 
-&emsp;[致谢]()
+&emsp;[致谢](./src/Preface.md#18)
 
 ### [1. 使用Erlang和REST构建可扩展系统](./src/Building_Scalable_Systems_with_Erlang_and_REST.md)
 
