@@ -7,101 +7,101 @@
 
 ## 目录
 
-### [前言](./src/Preface.md#1)
+### [前言](./src/Preface.md)
 
-&emsp;[本书适用于谁](./src/Preface.md#2)
+&emsp;本书适用于谁
 
-&emsp;[学习Erlang](./src/Preface.md#3)
+&emsp;学习Erlang
 
-&emsp;[在你开始之前](./src/Preface.md#4)
+&emsp;在你开始之前
 
-&emsp;[你会学到什么](./src/Preface.md#5)
+&emsp;你会学到什么
 
-&emsp;[本书的局限](./src/Preface.md#6)
+&emsp;本书的局限
 
-&emsp;[Help! 它不能编译或运行！](./src/Preface.md#7)
+&emsp;Help! 它不能编译或运行！
 
-&emsp;&emsp;[诊断错误](./src/Preface.md#8)
+&emsp;&emsp;诊断错误
 
-&emsp;&emsp;[你在运行什么版本的Erlang和Yaws？](./src/Preface.md#9)
+&emsp;&emsp;你在运行什么版本的Erlang和Yaws？
 
-&emsp;&emsp;[一切都正确加载吗？](./src/Preface.md#10)
+&emsp;&emsp;一切都正确加载吗？
 
-&emsp;&emsp;[你是否正确地调用一切？](./src/Preface.md#11)
+&emsp;&emsp;你是否正确地调用一切？
 
-&emsp;&emsp;[Mnesia正在运行正确的表吗？](./src/Preface.md#12)
+&emsp;&emsp;Mnesia正在运行正确的表吗？
 
-&emsp;&emsp;[示例是否简单错误？](./src/Preface.md#13)
+&emsp;&emsp;示例是否简单错误？
 
-&emsp;[本书中使用的约定](./src/Preface.md#14)
+&emsp;本书中使用的约定
 
-&emsp;[使用代码示例](./src/Preface.md#15)
+&emsp;使用代码示例
 
-&emsp;[Safari®联机丛书](./src/Preface.md#16)
+&emsp;Safari®联机丛书
 
-&emsp;[如何联系我们](./src/Preface.md#17)
+&emsp;如何联系我们
 
-&emsp;[致谢](./src/Preface.md#18)
+&emsp;致谢
 
 ### [1. 使用Erlang和REST构建可扩展系统](./src/Building_Scalable_Systems_with_Erlang_and_REST.md)
 
-&emsp;[为何选择Erlang？]()
+&emsp;为何选择Erlang？
 
-&emsp;&emsp;[Erlang的优势]()
+&emsp;&emsp;Erlang的优势
 
-&emsp;&emsp;[缺乏类型]()
+&emsp;&emsp;缺乏类型
 
-&emsp;&emsp;[OTP-不仅仅是电信！]()
+&emsp;&emsp;OTP-不仅仅是电信！
 
-&emsp;[为何选择Web服务？ 为何选择REST？]()
+&emsp;为何选择Web服务？ 为何选择REST？
 
-&emsp;[扩展和恢复的新机遇]()
+&emsp;扩展和恢复的新机遇
 
-&emsp;&emsp;[云计算]()
+&emsp;&emsp;云计算
 
-&emsp;&emsp;[系统架构和Erlang扩展]()
+&emsp;&emsp;系统架构和Erlang扩展
 
-&emsp;&emsp;[扩展与扩展]()
+&emsp;&emsp;缩放与缩小
 
-&emsp;&emsp;[阿姆达尔定律]()
+&emsp;&emsp;阿姆达尔定律
 
-&emsp;&emsp;[数据存储选项]()
+&emsp;&emsp;数据存储选项
 
-&emsp;&emsp;[Mnesia]()
+&emsp;&emsp;Mnesia
 
-&emsp;&emsp;[CouchDB]()
+&emsp;&emsp;CouchDB
 
-&emsp;&emsp;[MongoDB]()
+&emsp;&emsp;MongoDB
 
-&emsp;&emsp;[Redis]()
+&emsp;&emsp;Redis
 
-&emsp;&emsp;[Riak]()
+&emsp;&emsp;Riak
 
 ### [2. Yaws入门](./src/Getting_Started_with_Yaws.md)
 
-&emsp;[与Yaws一起工作]()
+&emsp;与Yaws一起工作
 
-&emsp;&emsp;[开始Yaws]()
+&emsp;&emsp;开始Yaws
 
-&emsp;&emsp;[提供静态文件]()
+&emsp;&emsp;提供静态文件
 
-&emsp;&emsp;[编译，加载和运行代码]()
+&emsp;&emsp;编译，加载和运行代码
 
-&emsp;&emsp;[Yaws簇]()
+&emsp;&emsp;Yaws簇
 
-&emsp;[Yaws动态内容]()
+&emsp;Yaws动态内容
 
-&emsp;&emsp;[EHTML]()
+&emsp;&emsp;EHTML
 
-&emsp;&emsp;[标题和重定向]()
+&emsp;&emsp;标题和重定向
 
-&emsp;[模板]()
+&emsp;模板
 
-&emsp;&emsp;[ErlyDTL]()
+&emsp;&emsp;ErlyDTL
 
-&emsp;[日志]()
+&emsp;日志
 
-&emsp;&emsp;[Erlang OTP error_logger]()
+&emsp;&emsp;Erlang OTP error_logger
 
 ### [3. Appmods：Yaws的动态内容](./src/Dynamic_Content_in_Yaws.md)
 

@@ -179,7 +179,7 @@ bookquestions@oreilly.com
 
 在YouTube上观看我们：http://www.youtube.com/oreillymedia
 
-### <span id="19">致谢</span>
+### 致谢
 
 一本书是一个团队的努力，如果没有一个伟大的团队支持我，我就不可能写这本书。首先，我要感谢Simon St. Laurent让我有机会写这本书，并通过整理这个过程来支持我。
 
