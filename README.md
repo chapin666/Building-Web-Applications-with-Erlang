@@ -87,13 +87,13 @@
 
 &emsp;&emsp;编译，加载和运行代码
 
-&emsp;&emsp;Yaws簇
+&emsp;&emsp;Yaws分布式
 
 &emsp;Yaws动态内容
 
 &emsp;&emsp;EHTML
 
-&emsp;&emsp;标题和重定向
+&emsp;&emsp;Header和重定向
 
 &emsp;模板
 

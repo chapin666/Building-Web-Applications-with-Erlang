@@ -84,7 +84,6 @@ Erlang具有一整套功能，可以监控应用程序的状态，并在进程�
 
 ![Alt text](../img/httpatomoreillycomsourceoreillyimages1220114-2.png "Figure 1. Error Page")
 
-
 ### <span id="9">你在运行什么版本的Erlang和Yaws?</span>
 
 这本书是围绕Erlang R14B02和R15B建立的。 理想情况下，您应该使用R15B或更高版本。 这是一个主要版本，其他功能包括堆栈跟踪中的行号，这使得查找错误更容易。 您可以通过从命令行运行erl -v来找到您拥有的Erlang版本。
