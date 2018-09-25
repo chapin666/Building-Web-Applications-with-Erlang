@@ -233,7 +233,7 @@ out(Arg) ->
 </erl>
 ```
 
-![Figure 2-2. Output of Example 2-6](../img/httpatomoreillycomsourceoreillyimages1220118 "Figure 2-2. Output of Example 2-6")
+![Figure 2-2. Output of Example 2-6](../img/httpatomoreillycomsourceoreillyimages1220118.png "Figure 2-2. Output of Example 2-6")
 
 也可以在一组模块中定义您的实际逻辑，这些模块通常被编译和加载到Erlang中，然后使用一组.yaws文件从Web调用这些函数。 为此，请使用如示例2-7中所示的.yaws文件。 这有一个out / 1函数，只需调用my_module:some_func/1，它可以完成实际工作。 这样，实际逻辑可以保存在普通的Erlang模块中，但没有appmods的复杂性（参见[第3章]()）。 只需记住从Erlang模块中导出所需的函数。
 

@@ -119,21 +119,21 @@
 
 ### [4. 实现REST](./src/Implementing_REST.md)
 
-&emsp;[解构请求]()
+&emsp;解构请求
 
-&emsp;&emsp;[提取用户Request]()
+&emsp;&emsp;提取用户Request
 
-&emsp;[Response和Headers]()
+&emsp;Response和Headers
 
-&emsp;[构建Response]()
+&emsp;构造Response
 
-&emsp;&emsp;[JSON]()
+&emsp;&emsp;JSON
 
-&emsp;&emsp;[XML]()
+&emsp;&emsp;XML
 
-&emsp;[响应REST请求]()
+&emsp;响应REST请求
 
-&emsp;[一个完整的例子]()
+&emsp;一个完整的例子
 
 ### [5. 文件上传](./src/File_Upload.md)
 
