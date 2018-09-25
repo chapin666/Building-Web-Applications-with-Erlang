@@ -105,17 +105,17 @@
 
 ### [3. Appmods：Yaws的动态内容](./src/Dynamic_Content_in_Yaws.md)
 
-&emsp;[Appmod配置]()
+&emsp;Appmod配置
 
-&emsp;[当URI与文件不对应时]()
+&emsp;当URI与文件不对应时
 
-&emsp;[Cookies]()
+&emsp;Cookies
 
-&emsp;[Session]()
+&emsp;Session
 
-&emsp;[访问控制]()
+&emsp;访问控制
 
-&emsp;[与Erlang服务和业务逻辑层交互]()
+&emsp;与Erlang服务和业务逻辑层交互
 
 ### [4. 实现REST](./src/Implementing_REST.md)
 
