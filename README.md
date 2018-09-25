@@ -159,15 +159,15 @@
 
 &emsp;简单的Streaming
 
-### [8. 使用HTTP客户端]()
+### [8. 使用HTTP客户端](./src/Using_the_HTTP_Client)
 
-&emsp;[发送请求]()
+&emsp;发送请求
 
-&emsp;[使用OAuth]()
+&emsp;使用OAuth
 
-&emsp;&emsp;[Facebook Canvas]()
+&emsp;&emsp;Facebook Canvas
 
-### [9. 使用OTP构建应用程序](./src/Using_the_HTTP_Client.md)
+### [9. 使用OTP构建应用程序](./src/Building_an_Application_with_OTP.md)
 
 &emsp;[项目结构]()
 
