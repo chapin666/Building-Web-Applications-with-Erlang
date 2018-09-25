@@ -137,15 +137,15 @@
 
 ### [5. 文件上传](./src/File_Upload.md)
 
-&emsp;[文件上传请求]()
+&emsp;文件上传请求
 
-&emsp;[保存到磁盘]()
+&emsp;保存到磁盘
 
-&emsp;[把它放在一起]()
+&emsp;把它们（代码）放在一起
 
-&emsp;[存储在分布式系统中]()
+&emsp;存储在分布式系统中
 
-&emsp;[保存到Amazon S3]()
+&emsp;保存到Amazon S3
 
 ### [6. WebSockets](./src/WebSockets.md)
 
