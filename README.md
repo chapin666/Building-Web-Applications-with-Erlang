@@ -169,27 +169,27 @@
 
 ### [9. 使用OTP构建应用程序](./src/Building_an_Application_with_OTP.md)
 
-&emsp;[项目结构]()
+&emsp;项目结构
 
-&emsp;[构建应用程序服务器]()
+&emsp;构建应用程序服务器
 
-&emsp;[通用服务器]()
+&emsp;通用服务器
 
-&emsp;[多播服务器]()
+&emsp;多播服务器
 
-&emsp;[将服务器与Web连接]()
+&emsp;将服务器与Web连接
 
-&emsp;[客户端代码]()
+&emsp;客户端代码
 
-&emsp;[让我们在这里有一些监督！]()
+&emsp;让我们在这里有一些监督！
 
-&emsp;[一点点优化]()
+&emsp;一点点优化
 
-&emsp;[捆绑为应用程序]()
+&emsp;捆绑为应用程序
 
-&emsp;[应用文件]()
+&emsp;应用文件
 
-&emsp;[结束OTP]()
+&emsp;结束OTP
 
 ### [A. 安装 Erlang and Yaws](./src/Installing_Erlang_and_Yaws.md)
 
